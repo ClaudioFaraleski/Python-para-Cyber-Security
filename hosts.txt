@@ -1,0 +1,5 @@
+www.google.com
+8.8.8.8
+www.uol.com.br
+www.latam.com.br
+www.hr.com.br
