@@ -23,6 +23,8 @@ def main():
 
     except socket.error as erro:
         print("Falha na conexão ")
+        print("Erro : {}".format(erro))
+        sys.exit()
 
 
 
