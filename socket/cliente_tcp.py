@@ -26,5 +26,8 @@ def main():
         print("Erro : {}".format(erro))
         sys.exit()
 
+if __name__ == "__main__":
+    main()
+
 
 
