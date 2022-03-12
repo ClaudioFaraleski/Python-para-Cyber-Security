@@ -4,6 +4,8 @@ import hashlib
 doc1 = 'a.txt'
 doc2 = 'b.txt'
 
+
+
 hash1 = hashlib.new('ripemd160')
 
 hash1.update(open(doc1 ,'rb').read())
